@@ -1109,6 +1109,6 @@
 
   exports.TimeSeries = TimeSeries;
   exports.SmoothieChart = SmoothieChart;
-
+return exports;
 })(typeof exports === 'undefined' ? this : exports);
 
